@@ -10,6 +10,7 @@
   * webapps and mobile apps for a purposeful cause
   * research and development in the fields of AI and Robotics
   * any open source work that helps in porting some useful functionality of a paid service
+  * JS based game development
 
 <!---
 the-hodophilic-programmer/the-hodophilic-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
